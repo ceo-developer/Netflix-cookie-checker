@@ -29,7 +29,7 @@ With this tool, you can verify the **validity** of your Netflix cookies and save
 ✅ **Auto-Detect Cookie Format** → Automatically identifies if cookies are in JSON or Netscape format.  
 ✅ **Multi-Threading Support** → Faster and more efficient cookie checking.  
 ✅ **User-Friendly Interface** → Simple and clean CLI design.  
-✅ **Multiple Output Formats** → Allows users to save valid cookies in either JSON or Netscape format.  
+✅ **Multiple Output Formats(Next Update)** → Allows users to save valid cookies in either JSON or Netscape format.  
 ✅ **Error Handling** → Detects and discards invalid cookies automatically.  
 
 ---
