@@ -34,18 +34,18 @@ pkg install git -y
 
 ### **🔵 Step 2: Clone the Repository**  
 ```bash
-git clone https://github.com/h2iteam/netflix-cookie-checker.git
-cd netflix-cookie-checker
+git clone https://github.com/ceo-developer/Netflix-cookie-checker.git
+cd Netflix-cookie-checker
 ```
 
 ### **🟢 Step 3: Install Required Python Modules**  
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### **🟣 Step 4: Run the Netflix Cookie Checker**  
 ```bash
-python netflix_cookie_checker.py
+python3 netflix_cookie_checker.py
 ```
 
 ---
@@ -79,7 +79,7 @@ Want to contribute?
 
 ## 📞 Contact & Support  
 
-📌 **Owner:** [](https://t.me/hiden_25) (Telegram)  
+📌 **Owner:** [dəˈveləpər](https://t.me/hiden_25) (Telegram)  
 📌 **Telegram Channel:** [H2I CODER](https://t.me/h2icoder)  
 
 For any issues or queries, feel free to reach out on **Telegram**.  
