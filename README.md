@@ -1,5 +1,21 @@
 # 🎬 Netflix Cookie Checker  
+*<b>Only For Education purpose.</b>*<br><br>
+![Logo](logo.jpg)
 
+<p align= "center">
+   <img src="https://img.shields.io/github/languages/top/ceo-developer/Netflix-cookie-checker">
+   <img src="https://img.shields.io/github/stars/ceo-developer/Netflix-cookie-checker">
+   <img src="https://img.shields.io/github/forks/ceo-developer/Netflix-cookie-checker">
+   <img src="https://github.com/ceo-developer/Netflix-cookie-checker/actions/workflows/codeql.yml/badge.svg?branch=master")>
+   <img src="https://github.com/ceo-developer/Netflix-cookie-checker/actions/workflows/qodana_code_quality.yml/badge.svg")>
+   <br>
+   <img src="https://img.shields.io/github/last-commit/ceo-developer/Netflix-cookie-checker">
+   <img src="https://img.shields.io/github/license/ceo-developer/Netflix-cookie-checker">
+   <br>
+   <img src="https://img.shields.io/github/issues/ceo-developer/Netflix-cookie-checker">
+   <img src="https://img.shields.io/github/issues-closed/ceo-developer/Netflix-cookie-checker">
+   <img src ="https://hits.dwyl.com/ceo-developer/Netflix-cookie-checker.svg">
+</p>
 🔍 **Netflix Cookie Checker** is a **powerful tool** that automatically detects and checks Netflix cookies stored in **JSON or Netscape format**.  
 With this tool, you can verify the **validity** of your Netflix cookies and save them in your preferred format.  
 
